@@ -97,8 +97,13 @@
 			<artifactId>Testing</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
-		
-		
+
+
+		<dependency>
+			<groupId>com.example</groupId>
+			<artifactId>RestAPIWithH2</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
